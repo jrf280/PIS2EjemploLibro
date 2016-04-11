@@ -22,4 +22,8 @@ abstract class Price {
 		}
 		return result;
 	}
+
+	int getFrequentRenterPoints(int daysRented) {
+		return 1;
+	}
 }
